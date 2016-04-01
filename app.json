@@ -1,0 +1,13 @@
+{
+  "name": "goproxy",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
